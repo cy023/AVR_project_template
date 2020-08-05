@@ -8,13 +8,13 @@
 **.hex
 **.map
 **.srec
-**.a
+# **.a
 
 #IDE
 .vscode/
 
 #Script
-*.bat
+**.bat
 
 #Test Script
-*.py
+**.py
