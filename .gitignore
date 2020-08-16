@@ -14,7 +14,7 @@
 .vscode/
 
 #Script
-**.bat
+# **.bat
 
 #Test Script
-**.py
+# **.py
